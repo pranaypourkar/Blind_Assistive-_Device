@@ -2,10 +2,15 @@
 #--------------------------------------------------------------------------
 use "python  label_image1.py" or "python label_image.py" to run the code
 
+it will run the code and open the camera . If an object(given in the list) comes then it will 
+recognize it and the name of the object will be converted into voice 
+
+
 Softwares and libraries required
 1.python
 2.opencv2.4.9
 3.tensorflow
 4.festival 
 5.GPIO library in microprocessor
+6.docker
 #------------------------------------------------------------------------

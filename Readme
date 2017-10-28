@@ -1,0 +1,11 @@
+
+#--------------------------------------------------------------------------
+use "python  label_image1.py" or "python label_image.py" to run the code
+
+Softwares and libraries required
+1.python
+2.opencv2.4.9
+3.tensorflow
+4.festival 
+5.GPIO library in microprocessor
+#------------------------------------------------------------------------
